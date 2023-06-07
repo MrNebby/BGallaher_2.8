@@ -110,6 +110,7 @@
 /* CSS not for the grid starts here*/
 #logo, #banner, #nav, #article, #footer {
 	background-color: #000000;
+	margin-top: 20px;
 }
 
 p {
