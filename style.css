@@ -108,7 +108,7 @@
 }
 
 /* CSS not for the grid starts here*/
-#logo, #banner, #article, #footer {
+#logo, #banner, #nav, #article, #footer {
 	background-color: #000000;
 }
 
