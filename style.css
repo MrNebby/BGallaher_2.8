@@ -108,3 +108,10 @@
 }
 
 /* CSS not for the grid starts here*/
+#logo, #banner, #article, #footer {
+	background-color: #000000;
+}
+
+p {
+	color: #ffffff;
+}
