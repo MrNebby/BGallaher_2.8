@@ -116,3 +116,29 @@
 p {
 	color: #ffffff;
 }
+
+/* CSS for navigation starts here*/
+#nav ul {
+	display: inline;
+	padding: 15px 0px 0px 0px;
+	list-style: none;
+}
+
+#nav ul li {
+	font-weight: bold;
+	display: inline-block;
+	margin-right: 4px;
+	position: relative;
+	padding: 15px 20px 17px;
+}
+
+#nav ul li:hover {
+	background: #555555;
+}
+
+/* Link colors*/
+
+
+#nav a {
+	text-decoration: none;
+}
