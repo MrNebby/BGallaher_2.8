@@ -119,6 +119,18 @@ p {
 	padding-right: 3px;
 }
 
+h1 {
+	color: #ffffff;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
+h3 {
+	color: #ffffff;
+	padding-left: 3px;
+	padding-right: 3px;
+}
+
 /* CSS for navigation starts here*/
 #nav ul {
 	display: inline;
