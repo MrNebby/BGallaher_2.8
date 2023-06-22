@@ -140,8 +140,8 @@ li {
 }
 
 /* Link colours*/
-a:link {color: #013a63;}
-a:visited {color: #2a6f97;}
+a:link {color: #2a6f97;}
+a:visited {color: #013a63;}
 
 /* CSS for navigation starts here*/
 #nav ul {
