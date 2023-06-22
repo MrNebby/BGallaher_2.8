@@ -142,6 +142,8 @@ li {
 /* Link colours*/
 a:link {color: #2196f3;}
 a:visited {color: #1976d2;}
+a:hover {color: #90caf9;}
+a:active {color: #90caf9;}
 
 /* CSS for navigation starts here*/
 #nav ul {
