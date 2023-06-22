@@ -138,6 +138,11 @@ li {
 	color: #ffffff;
 	font-size: 15px;
 }
+
+/* Link colours*/
+a:link {color: #2196f3;}
+a:visited {color: #1976d2;}
+
 /* CSS for navigation starts here*/
 #nav ul {
 	display: inline;
