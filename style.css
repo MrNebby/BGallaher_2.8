@@ -153,6 +153,7 @@ a:active {color: #90caf9;}
 }
 
 #nav ul li {
+	background: #495057;
 	font-weight: bold;
 	display: inline-block;
 	margin-right: 4px;
