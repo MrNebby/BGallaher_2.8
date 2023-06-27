@@ -108,6 +108,10 @@
 }
 
 /* CSS not for the grid starts here*/
+body {
+	background-color: #dee2e6;
+}
+
 #logo, #banner, #nav, #article, #footer {
 	background-color: #000000;
 	margin-top: 20px;
