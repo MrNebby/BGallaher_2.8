@@ -143,6 +143,10 @@ li {
 	font-size: 15px;
 }
 
+#icons ul {
+	list-style: none;
+}
+
 /* Link colours*/
 a:link {color: #2196f3;}
 a:visited {color: #1976d2;}
