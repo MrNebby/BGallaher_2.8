@@ -151,6 +151,10 @@ li {
 	list-style: none;
 }
 
+#article img {
+	text-align: center;
+}
+
 /* Link colours*/
 a:link {color: #2196f3;}
 a:visited {color: #1976d2;}
