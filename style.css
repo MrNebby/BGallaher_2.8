@@ -147,10 +147,12 @@ li {
 	font-size: 15px;
 }
 
+/* footer icons*/
 #icons ul {
 	list-style: none;
 }
 
+/* a bit of image CSS*/
 #centre {
 	text-align: center;
 }
@@ -159,6 +161,8 @@ li {
 	padding-left: 5px;
 	padding-right: 5px;
 }
+/* end of the image CSS*/
+
 /* Link colours*/
 a:link {color: #2196f3;}
 a:visited {color: #1976d2;}
@@ -184,9 +188,7 @@ a:active {color: #90caf9;}
 	background: #3e3c45;
 }
 
-/* Link colors*/
-
-
 #nav a {
 	text-decoration: none;
 }
+/* end of navigation CSS*/
