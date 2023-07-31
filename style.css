@@ -157,11 +157,11 @@ li {
 	text-align: center;
 }
 
+/* CSS to give some of the images padding*/
 .image_padding {
 	padding-left: 5px;
 	padding-right: 5px;
 }
-/* end of the image CSS*/
 
 /* Link colours*/
 a:link {color: #2196f3;}
