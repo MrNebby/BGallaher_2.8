@@ -116,6 +116,9 @@
 	height: 600px;
 }
 
+.row_home_sidebar {
+	height: 550px;
+}
 /* CSS not for the grid starts here*/
 body {
 	background-colour: #cccccc;
