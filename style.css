@@ -107,8 +107,13 @@
 	display: block;
 }
 
+/* CSS to set the height of divs to specific heights*/
 .row_126 {
 	height: 126px;
+}
+
+.row_contact_sidebar {
+	height: 600px;
 }
 
 /* CSS not for the grid starts here*/
