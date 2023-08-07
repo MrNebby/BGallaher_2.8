@@ -119,6 +119,10 @@
 .row_home_sidebar {
 	height: 625px;
 }
+
+.row_history_sidebar {
+	height: 650px;
+}
 /* CSS not for the grid starts here*/
 body {
 	background-colour: #cccccc;
