@@ -124,6 +124,11 @@
 	height: 650px;
 }
 /* CSS not for the grid starts here*/
+/* Import fonts*/
+@import url('//fonts.googleapis.com/css2?family=Nunito:wght@300&display=swap');
+
+/* Font importing ends here*/
+
 body {
 	background-colour: #cccccc;
 }
@@ -138,6 +143,7 @@ p {
 	padding-left: 3px;
 	padding-right: 3px;
 	font-size: 15px;
+	font-family: Nunito;
 }
 
 h1 {
