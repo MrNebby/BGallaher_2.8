@@ -139,11 +139,11 @@ body {
 }
 
 p {
+	font-family: 'Nunito', sans-serif;
 	color: #f0efeb;
 	padding-left: 3px;
 	padding-right: 3px;
 	font-size: 15px;
-	font-family: Nunito;
 }
 
 h1 {
