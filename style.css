@@ -134,6 +134,7 @@ body {
 }
 
 p {
+	font-family: 'Quicksand', sans-serif;
 	color: #f0efeb;
 	padding-left: 3px;
 	padding-right: 3px;
@@ -155,6 +156,7 @@ h3 {
 }
 
 li {
+	font-family: 'Quicksand', sans-serif;
 	color: #f0efeb;
 	font-size: 15px;
 }
