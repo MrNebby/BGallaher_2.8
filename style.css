@@ -128,7 +128,7 @@ body {
 	background-colour: #cccccc;
 }
 
-#logo, #banner, #nav, #article, #footer {
+#logo, #banner, #nav, .article, #footer {
 	background-color: #000000;
 	margin-top: 20px;
 }
@@ -169,7 +169,7 @@ li {
 }
 
 /* CSS that centres elements in a division*/
-#centre, #nav {
+.centre, #nav {
 	text-align: center;
 }
 
