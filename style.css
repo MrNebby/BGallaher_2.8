@@ -123,7 +123,9 @@
 .row_history_sidebar {
 	height: 710px;
 }
+
 /* CSS not for the grid starts here*/
+
 body {
 	background-color: #cccccc;
 }
@@ -133,6 +135,7 @@ body {
 	margin-top: 20px;
 }
 
+/* Fonts imported in HTML*/
 p {
 	font-family: 'Quicksand', sans-serif;
 	color: #f0efeb;
